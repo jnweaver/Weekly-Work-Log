@@ -6,7 +6,7 @@
 
 ## June 30, 2014
 
-* Added Postgres Backup scripts to Postgres servers
+* Added Postgres backup scripts to Postgres servers
 * Learned more about Postgres administration
 * Produced and distributed first monthly Media Mentions e-report
 * Revised WiscMail links on wisc.edu, adding popover feature to explain the change
