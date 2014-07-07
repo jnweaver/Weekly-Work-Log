@@ -1,5 +1,4 @@
 # Weekly Work Log
-===============
 
 (Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job had taken me on a week-to-week basis.)
 
