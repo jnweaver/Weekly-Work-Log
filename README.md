@@ -4,6 +4,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 
 ## July 7, 2014
 * Compiled Google Analytics data about use of Departmental Directory link on wisc.edu in prep for a meeting about the directory
+* Researched NetScaler app delivery controller to better understand how it can be configured to handle caching
 
 ## June 30, 2014
 
