@@ -1,6 +1,6 @@
 # Weekly Work Log
 
-Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job had taken me on a week-to-week basis.
+Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
 ## July 21, 2014
 * Formulate strategy for migrations sites and apps off our current production VM to newer VMs; share with colleagues
