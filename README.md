@@ -6,6 +6,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Formulate strategy for migrations sites and apps off our current production VM to newer VMs; share with colleagues
 * Begun work of migrating Wordpress databases to new production MySQL database server (once all MySQL and Postgresql Dbs are migrated, the old VM will be upgraded and repurposed as a second production VM for Wordpress hosting)
 * Misc. website maintenance efforts for arts.wisc.edu and adminexcellence.wisc.edu
+* Migrated hrdesign.wisc.edu to DoIT Web hosting platform and integrated Shibboleth for authentication and group management via DoIT's Manifest service
 
 ## July 14, 2014
 * Implemented numerous front-end and back-end changes to alerts admin Rails app in advance of campus emergency exercise on July 17, 2014
