@@ -11,6 +11,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Wrangled a Bash script together to use iconv to batch convert some old content files to UTF-8
 * Converted adminexecellence.wisc.edu to a set of static files and deployed a staging version to DoIT Web hosting
 * Reviewed applications for an open digital marketing position in another division on campus
+* Migrated 4 more Wordpress Dbs to new Db server and added Hyper Cache to each site
 
 ## July 14, 2014
 * Implemented numerous front-end and back-end changes to alerts admin Rails app in advance of campus emergency exercise on July 17, 2014
