@@ -7,7 +7,9 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Begun work of migrating Wordpress databases to new production MySQL database server (once all MySQL and Postgresql Dbs are migrated, the old VM will be upgraded and repurposed as a second production VM for Wordpress hosting)
 * Misc. website maintenance efforts for arts.wisc.edu and adminexcellence.wisc.edu
 * Migrated hrdesign.wisc.edu to DoIT Web hosting platform and integrated Shibboleth for authentication and group management via DoIT's Manifest service
-* Retrofit responsive design CSS into the diversity.wisc.edu redesign site
+* Retrofit responsive design CSS into the diversity.wisc.edu redesign
+* Wrangled a Bash script together to use iconv to batch convert some old content files to UTF-8
+* Converted adminexecellence.wisc.edu to a set of static files and deployed a staging version to DoIT Web hosting
 
 ## July 14, 2014
 * Implemented numerous front-end and back-end changes to alerts admin Rails app in advance of campus emergency exercise on July 17, 2014
