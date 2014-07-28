@@ -2,6 +2,12 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## July 29, 2014
+* Migrated 20 MySQL and 2 Postgresql databases to new database server
+* Upgraded Wordpress Core and plugins on ~ 12 sites; added Hypercache to many of these
+* Installed autmysqlbackup script to new MySQL server for nighlt data dumps
+* Submitted [Pull Request to Wordpress Timber project](https://github.com/jarednova/timber/pull/309) to fix menu bug
+
 ## July 21, 2014
 * Formulate strategy for migrations sites and apps off our current production VM to newer VMs; share with colleagues
 * Begun work of migrating Wordpress databases to new production MySQL database server (once all MySQL and Postgresql Dbs are migrated, the old VM will be upgraded and repurposed as a second production VM for Wordpress hosting)
