@@ -10,6 +10,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Sat in on a design review for the new adult lifelong learning gateway
 * Attended the Campus Communicators Content Strategy sessions 
 * Refine the responsive grid for the diversity.wisc.edu redesign
+* Migrate sustanability website to staging server
 
 ## July 21, 2014
 * Formulate strategy for migrations sites and apps off our current production VM to newer VMs; share with colleagues
