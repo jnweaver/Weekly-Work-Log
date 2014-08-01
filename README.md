@@ -13,6 +13,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Migrate sustanability website to staging server; eventually moved into production
 * Put new [diversity.wisc.edu](http://diversity.wisc.edu) into production
 * Completed migration of MySQL and PostgreSQL databases to new production database server
+* Attended On Wisconsin magazine redesign kickoff with Pentagram
 
 ## July 21, 2014
 * Formulate strategy for migrations sites and apps off our current production VM to newer VMs; share with colleagues
