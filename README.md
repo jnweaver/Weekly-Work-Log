@@ -2,6 +2,12 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## August 4, 2014
+* Configured Shibboleth for sustainability website
+* Reviewed applications for web director position
+* Fixed several minor issues with the WID website
+
+
 ## July 29, 2014
 * Migrated 20 MySQL and 2 Postgresql databases to new database server
 * Upgraded Wordpress Core and plugins on ~ 12 sites; added Hypercache to many of these
