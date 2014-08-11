@@ -2,11 +2,15 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## August 11, 2014
+
 ## August 4, 2014
 * Configured Shibboleth for sustainability website
 * Reviewed applications for web director position
 * Fixed several minor issues with the WID website
-
+* Upgraded30 Wordpress instances to 3.9.2
+* Created a new Wordpress bootstrap git skeleton that uses Composer for managing WP core files and plugins (learned a lote more about Composer in the process!)
+* Set up the deploy targets for the new wisc.edu environments
 
 ## July 29, 2014
 * Migrated 20 MySQL and 2 Postgresql databases to new database server
