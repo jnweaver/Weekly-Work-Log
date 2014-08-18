@@ -2,6 +2,9 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## August 18, 2014
+* Upgraded Ubuntu on shared development database and Jenkins/CI server
+
 ## August 11, 2014
 * Continued work on the new Wordpress bootstrap project using Composer
 * Theme and style update to accommodate blog comments on the chancellor's blog for the first time
