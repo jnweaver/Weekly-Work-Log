@@ -5,6 +5,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 ## August 11, 2014
 * Continued work on the new Wordpress bootstrap project using Composer
 * Theme and style update to accommodate blog comments on the chancellor's blog for the first time
+* Deep dive into Vagrant, chef and Berkshelf for configuring virtual environments for our Wordpress development
 
 ## August 4, 2014
 * Configured Shibboleth for sustainability website
