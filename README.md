@@ -2,8 +2,16 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## August 25, 2014
+* Refactored our Vagrant chef provisioning. Authored two cookbooks: [umark_wordpress_cookbook](https://github.com/UWMadisonUcomm/umark_wordpress_cookbook) and [umark_lamp_cookbook](https://github.com/UWMadisonUcomm/umark_lamp_cookbook)
+* Restructured [commencement](http://commencmeent.wisc.edu) for Winter 2014 and Spring 2015 announcements
+* Finished and deployed [Vice Chancellor for Research and Graduate Education](http://research.wisc.edu). Site used our new Wordpress skeleton deploying through Jenkins to DoTI Web Hosting
+* Added a related posted feature to the On Wisconsin webstie to accommodate story packages
+
 ## August 18, 2014
 * Upgraded Ubuntu on shared development database and Jenkins/CI server
+* Continued work on Vagrant, provisioning with Chef and Berkshelf for managing cookbook dependencies
+* Designed and wrote the theme for new Vice Chancellor for Research and Graduate Education site. (Also wrote a simple rss-reader plugin to wrap the return of Wordpress's fetch_feed function in a PHP data object for cleaner integration with Timber. Will spin this off as an officiak WP plugin soon.)
 
 ## August 11, 2014
 * Continued work on the new Wordpress bootstrap project using Composer
