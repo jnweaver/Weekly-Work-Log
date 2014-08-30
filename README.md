@@ -7,6 +7,7 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Restructured [commencement](http://commencmeent.wisc.edu) for Winter 2014 and Spring 2015 announcements
 * Finished and deployed [Vice Chancellor for Research and Graduate Education](http://research.wisc.edu). Site used our new Wordpress skeleton deploying through Jenkins to DoTI Web Hosting
 * Added a related posts feature to the On Wisconsin webstie to accommodate story packages
+* Completed a massive data and tiles update to [map.wisc.edu](http://map.wisc.edu), including many OSM updates
 
 ## August 18, 2014
 * Upgraded Ubuntu on shared development database and Jenkins/CI server
