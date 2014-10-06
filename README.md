@@ -2,6 +2,38 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## October 6, 2014
+
+* Fixed our broek Jenkins CI build tests for alerts
+* Fixed my longstanding certificate issues in OSX Keychain!
+
+## September 29, 2014
+* Documented known risks related to new Alerts publishing app
+* Briefed alerts publishing app users one final time before production launch
+* Launched alerts.wisc.edu and migrated wisc.edu to new VMs with minimal rollout issues
+* Began researching issues with the new campus Microsoft Off Web App and its poor HTML email parsing capabilities
+
+## September 22, 2014
+* Finalized new [vote.wisc.edu](http://vote.wisc.edu) site and launched
+* Finalized new [uc.wisc.edu](http://uc.wisc.edu) site and launched
+* Finalized new [umark.wisc.edu](http://umark.wisc.edu) site and launched
+* Patched our development Ubuntu box against Shellshock
+* Definied monitoring tasks required for new wisc.edu and alerts.wisc.edu environments
+* Various refactoring of alerts app code and design, with supporting tests
+* Final design and browser testing on how wisc.edu consumes alerts.wisc.edu messages
+
+## September 15, 2014
+
+* Consulted on ongoing load testing of wisc.edu and alerts.wisc.edu environments
+* Design and build new voter information website and new University Communications website
+* Assisted with outstanding tasks on new University Marketing website
+* Configiured new VM to use Shibboleth for Wordpress auth and campus Manifest group management utility
+
+## September 8, 2014
+
+* Developed initial version of University Makreting website portfolio using [Magnfiic Popup](http://dimsemenov.com/plugins/magnific-popup/)
+* Other miscellaneous Wordpress development for University Communications and University Makreting websites
+
 ## August 25, 2014
 * Refactored our Vagrant chef provisioning. Authored two cookbooks: [umark_wordpress_cookbook](https://github.com/UWMadisonUcomm/umark_wordpress_cookbook) and [umark_lamp_cookbook](https://github.com/UWMadisonUcomm/umark_lamp_cookbook)
 * Restructured [commencement](http://commencmeent.wisc.edu) for Winter 2014 and Spring 2015 announcements
