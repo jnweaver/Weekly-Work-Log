@@ -2,10 +2,17 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## October 13, 2014
+
+* Migrated eight Wordpress site to new VM and moved them into our Composer-based Wordpress framework
+* Lots of SSL and Shibboleth configuation for the sites migrating VMs this week
+
 ## October 6, 2014
 
 * Fixed our broek Jenkins CI build tests for alerts
 * Fixed my longstanding certificate issues in OSX Keychain!
+* Built a vagrant for our Rails Alerts publishing app
+* Research sourcemapping with grunt-less-contrib and Chrome developer tools
 
 ## September 29, 2014
 * Documented known risks related to new Alerts publishing app
