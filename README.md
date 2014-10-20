@@ -5,7 +5,12 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 ## October 13, 2014
 
 * Migrated eight Wordpress site to new VM and moved them into our Composer-based Wordpress framework
-* Lots of SSL and Shibboleth configuation for the sites migrating VMs this week
+* SSL and Shibboleth configuation for the sites migrating VMs this week
+* Trained a web designer on working with Less
+* Documented migrating Wordpress sites to our new Composer-based framework, as well as SSL and Shibboleth configuration
+* Closed a few issues/feature requests related to our Parent Program newsletter
+* Patched servers against POODLE vulnerability
+* Trained a new editor on using Google Analytics
 
 ## October 6, 2014
 
