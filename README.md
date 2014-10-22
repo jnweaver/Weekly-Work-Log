@@ -2,6 +2,11 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
+## October 20, 2014
+
+* Fix Apache reverse proxy configuration issue with our Jenkins instance
+* Add feature to print bids Rails app to allow arbitrary number of other attachments to a bid
+
 ## October 13, 2014
 
 * Migrated eight Wordpress site to new VM and moved them into our Composer-based Wordpress framework
