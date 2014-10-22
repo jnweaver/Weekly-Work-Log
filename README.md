@@ -6,6 +6,8 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 
 * Fix Apache reverse proxy configuration issue with our Jenkins instance
 * Add feature to print bids Rails app to allow arbitrary number of other attachments to a bid
+* Final changes to print bids app before going live
+* Troubleshot a lingering bug in the news Rails app related to invalid characters in params corrupting cache keys
 
 ## October 13, 2014
 
