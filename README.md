@@ -8,6 +8,8 @@ Too often, a week passes by and I reflact back on it wondering what I actually a
 * Add feature to print bids Rails app to allow arbitrary number of other attachments to a bid
 * Final changes to print bids app before going live
 * Troubleshot a lingering bug in the news Rails app related to invalid characters in params corrupting cache keys
+* Worked with @VidalQuevedo on brainstoriming some stories and scenarios for revising the alerts admin app UI
+* Analyzed our Mapbox data and MobileUW traffic to estimate cost increase we'll see with MobileUW 2.0 switching to Mapbox for its maps
 
 ## October 13, 2014
 
