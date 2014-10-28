@@ -2,10 +2,11 @@
 
 Too often, a week passes by and I reflact back on it wondering what I actually accomplished. This log is my attempt to document where my job takes me on a week-to-week basis.
 
-33 October 27, 2014
+## October 27, 2014
 
 * Changed the news site so it uses clipsheet JSON API instead of database connections
 * Completed migration of four more Wordpress sites to new VM and Composer-based framework
+* Fixed a bug in the newsletters Wordpress site having to do with SSL negotiation
 
 ## October 20, 2014
 
